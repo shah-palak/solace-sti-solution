@@ -12,6 +12,7 @@ Visit Demo Site:
 https://solace-w4a8.onrender.com/
 
 (OpenAI key unable to be shared publicly, so demo conversation coded for judges)
+
 Please follow the following prompts:
 
 	1.	“I’m really scared I might have an infection but i don't know who to talk to"
