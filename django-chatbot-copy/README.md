@@ -7,7 +7,7 @@ A generative-AI powered chatbot that converses with users about their sexual hea
 Backend: Django, OpenAI <br />
 Frontend: HTML, jQuery (Ajax), CSS, Bootstrap
 
-## To run the project
+## To run the project - updated 11.02.2023 since CHATGPT KEY was disabled
 Visit Demo Site:
 https://solace-w4a8.onrender.com/
 
