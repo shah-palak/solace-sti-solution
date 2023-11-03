@@ -1,33 +1,31 @@
-# Integrate ChatGPT in Django and build Chatbot
+# Solace
 
 # Description
-This project shows how to integrate chatGPT in Django to build a chatbot
+A generative-AI powered chatbot that converses with users about their sexual health, providing them with a plan for testing, personalized information, and nearby locations in under five minutes.
 
 ## Technology Stack
-Backend: Django <br />
-Frontend: HTML, jQuery (Ajax)
-
-
-## To run the project
-Prerequisites: Python3, pipenv
-
-## Plugins Used:
-Django: https://docs.djangoproject.com/en/4.0/topics/install/#installing-official-release<br />
-
-## Important links
-Get Open AI key: https://platform.openai.com/account/api-keys/<br />
-Setup Open AI Paid account: https://platform.openai.com/account/billing/overview<br />
-Setup Open AI Usagage limit: https://platform.openai.com/account/billing/limits<br />
-
+Backend: Django, OpenAI <br />
+Frontend: HTML, jQuery (Ajax), CSS, Bootstrap
 
 ## To run the project
-1. Checkout the code
-2. Create a virtual environment (pipenv shell)
-3. Install all the packages (pipenv install)
-4. Add OpenAI key in /src/src/settings.py
-5. Navigate inside the project (cd src)
-6. Run the backend server (python manage.py runserver)
-7. Visit the server link (http://localhost:8000/)
+Visit Demo Site:
+https://solace-w4a8.onrender.com/
 
-## Video Demo
-https://youtu.be/VnzqWOIrZ9E
+(OpenAI key unable to be shared publicly, so demo conversation coded for judges)
+Please follow the following prompts:
+
+	1.	“I’m really scared I might have an infection but i don't know who to talk to"
+   
+	2.	"i slept with someone and he didn't use a condom and I've noticed some sores forming recently"
+
+	3.	 "it was a little over a month ago"
+
+	4.	 "No there's no pain, i've just been feeling really tired. but I'm worried because I also might be pregnant"
+
+	5.	“I haven't been to the doctor in over 2 years. it's way too expensive and i feel anxious the whole time"
+
+	6.	“sure, 85281"
+
+	7.	“No"
+
+	8.	“not right now, I think we covered it"
